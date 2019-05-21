@@ -39,6 +39,9 @@
     color:#458af9;
 }
 
+.contact h2, .bioHeader, .headerText {
+    font-weight:300;
+}
 
 p, li {
     color:#595a5b;
