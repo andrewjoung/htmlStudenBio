@@ -15,36 +15,29 @@
 }
 
 .bio {
-    margin-top:25px;
     height:400px;
-    width:70%;
-    display:inline;
+    width:68%;
+    float:left;
 }
+
 
 .bioImage {
  float:left;
 }
 
+
+/*
 .bioHeader {
     margin-right:25%;
     width:30%;
     float:left;
 }
+*/
 
 .bioFull {
     float:left;
     width:25%;
     margin-left:5%;
-}
-.contact {
-    margin-left:5%;
-    float:left;
-    width:25%;
-}
-
-.contactHeader {
-    float:right;
-    margin-right:15%;
 }
 
 .contactHeader, a, .bioHeader {
