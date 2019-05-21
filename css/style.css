@@ -10,9 +10,15 @@
     color:white;
 }
 
+.bothHeaders {
+    width:100%;
+}
+
 .bio {
     margin-top:25px;
     height:400px;
+    width:70%;
+    display:inline;
 }
 
 .bioImage {
@@ -21,7 +27,8 @@
 
 .bioHeader {
     margin-right:25%;
-    margin-bottom:2%;
+    width:30%;
+    float:left;
 }
 
 .bioFull {
@@ -35,11 +42,16 @@
     width:25%;
 }
 
-.contact h2, a, .bioHeader {
+.contactHeader {
+    float:right;
+    margin-right:15%;
+}
+
+.contactHeader, a, .bioHeader {
     color:#458af9;
 }
 
-.contact h2, .bioHeader, .headerText {
+.contactHeader, .bioHeader, .headerText {
     font-weight:300;
 }
 
