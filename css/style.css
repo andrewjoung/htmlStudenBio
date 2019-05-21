@@ -1,0 +1,45 @@
+.header {
+    margin-right:10.5%;
+    margin-left:10.5%;
+    margin-top:0;
+    padding:10px;
+    background-color:#458af9;
+}
+
+.headerText {
+    color:white;
+}
+
+.bio {
+    margin-top:25px;
+    height:400px;
+}
+
+.bioImage {
+ float:left;
+}
+
+.bioHeader {
+    margin-right:25%;
+    margin-bottom:2%;
+}
+
+.bioFull {
+    float:left;
+    width:25%;
+    margin-left:5%;
+}
+.contact {
+    margin-left:5%;
+    float:left;
+    width:25%;
+}
+
+.contact h2, a, .bioHeader {
+    color:#458af9;
+}
+
+
+p, li {
+    color:#595a5b;
+}
